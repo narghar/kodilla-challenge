@@ -1,7 +1,7 @@
 # KODILLA CHALENGE
 
 > One page webiste I made during online challenge and learning.
-![Website Screenshot](/images/sreenshot.png)
+![Website Screenshot](images/screenshot.png)
 
 ### Learning steps (polish language)
 
